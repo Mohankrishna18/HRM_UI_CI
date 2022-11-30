@@ -11,7 +11,7 @@ jobs:
  build:
   
    # The  os to run the job on
-   runs-on: self-hosted
+   runs-on: ubuntu-latest
     # Steps 
     
    strategy:
