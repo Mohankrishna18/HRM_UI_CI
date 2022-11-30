@@ -9,15 +9,16 @@ toast.configure()
 
 const App = () => {
   return (
-    
+
     <div className="AppComponent">
-      <Container-fluid>
+      {/* <Container-fluid>
         <Row>
           <Col>
             <Routes/>
           </Col>
         </Row>
-      </Container-fluid>
+      </Container-fluid> */}
+      <h1>mohan</h1>
     </div>
   );
 };
