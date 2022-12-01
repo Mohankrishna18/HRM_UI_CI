@@ -19,10 +19,7 @@ const App = () => {
         </Row>
       </Container-fluid> */}
       <h1>mohan</h1>
-      <h1>mohan</h1>
-      <h1>mohan</h1>
-      <h1>mohan</h1>
-      <h1>mohan</h1>
+      
     </div>
   );
 };
